@@ -1,4 +1,4 @@
-# 👋 Bem-vindo ao meu perfil!
+# 👋 Olá,eu sou Evandro Drumond
 
 ## Sobre mim
 Sou **Técnico em Eletrônica** formado desde **1994**, com ampla experiência em:
